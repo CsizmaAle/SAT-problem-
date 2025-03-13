@@ -6,4 +6,5 @@ The file copilot3_completare.py contains an algorithm which generates sets of cl
 There is a second solver (cod_robi.py) that uses the most effective algorithm (dp/dpll/resolution) for a set. Results in sat_results.txt file. 
 The third solver (cod_robi2.py) generates sets of clauses, solves them using all 3 algorithms and saves results in sat_results_comparison.txt file.
 
-
+Solutions cod_robi.py and cod_robi2.py written by @rrobica(https://github.com/rrobica), check it out!  
+https://github.com/rrobica/SAT_solver
