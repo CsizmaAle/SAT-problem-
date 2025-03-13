@@ -1,0 +1,50 @@
+Set 1:
+  Resolution: Unsatisfiable, 0.000150 sec
+  DP: Unsatisfiable, 0.000110 sec
+  DPLL: Unsatisfiable, 0.000036 sec
+
+Set 2:
+  Resolution: Unsatisfiable, 0.004694 sec
+  DP: Unsatisfiable, 0.000068 sec
+  DPLL: Unsatisfiable, 0.000029 sec
+
+Set 3:
+  Resolution: Unsatisfiable, 0.006561 sec
+  DP: Unsatisfiable, 0.000188 sec
+  DPLL: Unsatisfiable, 0.000033 sec
+
+Set 4:
+  Resolution: Unsatisfiable, 0.000070 sec
+  DP: Unsatisfiable, 0.000050 sec
+  DPLL: Unsatisfiable, 0.000023 sec
+
+Set 5:
+  Resolution: Unsatisfiable, 0.000118 sec
+  DP: Unsatisfiable, 0.000057 sec
+  DPLL: Unsatisfiable, 0.000023 sec
+
+Set 6:
+  Resolution: Unsatisfiable, 0.000056 sec
+  DP: Unsatisfiable, 0.000067 sec
+  DPLL: Unsatisfiable, 0.000021 sec
+
+Set 7:
+  Resolution: Unsatisfiable, 0.000117 sec
+  DP: Unsatisfiable, 0.000067 sec
+  DPLL: Unsatisfiable, 0.000021 sec
+
+Set 8:
+  Resolution: Unsatisfiable, 0.000277 sec
+  DP: Unsatisfiable, 0.000082 sec
+  DPLL: Unsatisfiable, 0.000036 sec
+
+Set 9:
+  Resolution: Unsatisfiable, 0.000131 sec
+  DP: Unsatisfiable, 0.000163 sec
+  DPLL: Unsatisfiable, 0.000045 sec
+
+Set 10:
+  Resolution: Unsatisfiable, 0.000250 sec
+  DP: Unsatisfiable, 0.000191 sec
+  DPLL: Unsatisfiable, 0.000052 sec
+
